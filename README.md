@@ -1,4 +1,5 @@
-# SnakeGame
+SnakeGame
+====================
 The snake game over led array.
 
 It's required the library `LedControl` and `LiquidCrystal_I2C`
@@ -10,6 +11,7 @@ The code is prepared to work with:
 * Arduino nano
 * Joystick
 
-###Screenshot
+Screenshot
+-------------
 ![avatar](http://i.imgur.com/OIMauwH.png)
 ![avatar](http://i.imgur.com/FfqGtz3.png)
